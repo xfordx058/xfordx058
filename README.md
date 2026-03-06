@@ -1,26 +1,31 @@
 <h1 align="center">Glen Ford Anquilo</h1>
 
 <p align="center">
-  <strong>Student Developer • Web Systems Builder • Future Full Stack Engineer</strong>
+Student Developer • Web Systems Builder • Future Full Stack Engineer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;Web+System+Architect;Database+&+Backend+Learner;UI+%2F+UX+Explorer&center=true&width=600&height=45&color=58A6FF&vCenter=true">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+In+Progress;Web+System+Architect;Database+%26+Backend+Learner;UI+UX+Focused+Developer;Continuous+Learner&center=true&width=650&height=45&color=3B82F6&vCenter=true">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xfordx058&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## Profile
 
-Student developer based in the Philippines with a strong interest in building structured and scalable web systems.
-Focused on understanding both frontend interfaces and backend logic while continuously improving problem-solving and algorithmic thinking.
+Dedicated student developer from the Philippines focused on building structured, scalable, and user-focused web systems.
 
-Current focus areas include:
+Strong interest in:
 
-* Web application development
-* database systems and API integration
-* responsive UI design
-* algorithms and logical programming
+• Web system architecture
+• Database design and integration
+• Clean UI implementation
+• Algorithmic problem solving
+
+Currently expanding knowledge in **full stack development and backend systems** while building practical projects.
 
 ---
 
@@ -50,22 +55,34 @@ Current focus areas include:
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xfordx058&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xfordx058&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfordx058&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfordx058&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Contribution Activity
+## Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfordx058&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+## Activity Graph
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xfordx058&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## Developer Metrics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xfordx058&theme=tokyonight"/>
 </p>
 
 ---
@@ -74,39 +91,61 @@ Current focus areas include:
 
 ### Set Operations Expert System
 
-Interactive educational tool designed for discrete mathematics learning.
-Includes tutorials, interactive set operations calculator, and quizzes.
+Interactive learning platform designed to help students understand **Discrete Mathematics set operations**.
 
-Technologies used:
+Features:
+
+• Interactive set calculator
+• Learning modules
+• Quiz system
+• Responsive UI
+
+Technology used:
+
 HTML • CSS • JavaScript
 
 ---
 
-### Web-Based System Prototypes
+### Web System Prototypes
 
-Development of responsive interfaces and structured web layouts for academic system projects, focusing on usability and modern UI practices.
+Design and development of responsive system interfaces with a focus on **clean architecture and usability**.
 
-Technologies used:
+Technology used:
+
 HTML • CSS • JavaScript • Figma
 
 ---
 
-### Database and SQL Practice
+### Database and SQL Experiments
 
-Hands-on exercises exploring relational database design, CRUD operations, queries, and backend data management.
+Collection of backend exercises focused on:
 
-Technologies used:
+• CRUD operations
+• relational database design
+• query optimization
+• backend data flow
+
+Technology used:
+
 MySQL • MongoDB • Firebase
 
 ---
 
 ## Current Development Focus
 
-* Advanced JavaScript concepts
-* backend architecture and APIs
-* database design and optimization
-* algorithms and dynamic programming
-* full stack system integration
+Web Systems Architecture
+Database Engineering
+Advanced JavaScript
+Backend API Development
+Algorithms and Dynamic Programming
+
+---
+
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/xfordx058/xfordx058/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
@@ -127,5 +166,5 @@ MySQL • MongoDB • Firebase
 ---
 
 <p align="center">
-Professional growth through continuous learning and real system development.
+Building systems through consistency, curiosity, and continuous learning.
 </p>
