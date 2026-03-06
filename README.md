@@ -1,7 +1,7 @@
 <h1 align="center">Glen Ford Anquilo</h1>
 
 <p align="center">
-Student Developer • Web Systems Builder • Future Full Stack Engineer
+Student Developer • Web Systems Builder  
 </p>
 
 <p align="center">
